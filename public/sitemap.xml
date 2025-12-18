@@ -2,133 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://campuscareer.oneserve.in/</loc>
+    <loc>https://campuscareer.vercel.app/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://campuscareer.oneserve.in/daily-tips/</loc>
+    <loc>https://campuscareer.vercel.app/daily-tips/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://campuscareer.oneserve.in/preparation/</loc>
+    <loc>https://campuscareer.vercel.app/preparation/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://campuscareer.oneserve.in/resume/</loc>
+    <loc>https://campuscareer.vercel.app/resume/</loc>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://campuscareer.oneserve.in/placements/</loc>
+    <loc>https://campuscareer.vercel.app/placements/</loc>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://campuscareer.oneserve.in/contact/</loc>
+    <loc>https://campuscareer.vercel.app/contact/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/placements/eligibility-checker/</loc>
+    <loc>https://campuscareer.vercel.app/placements/eligibility-checker/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/privacy-policy/</loc>
+    <loc>https://campuscareer.vercel.app/privacy-policy/</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://campuscareer.vercel.app/roadmaps/web-developer/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/privacy-policy/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/java-developer/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/web-developer/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/data-analyst/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/java-developer/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/ai-ml/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/data-analyst/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/data-science/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/ai-ml/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/cloud-computing/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/data-science/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/devops/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/cloud-computing/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/cybersecurity/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/devops/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/vlsi/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/cybersecurity/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/embedded/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/vlsi/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/iot/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/embedded/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/signal-processing/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/iot/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/rf-engineer/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/signal-processing/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/cad-cam/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/rf-engineer/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/robotics/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/cad-cam/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/mobile-dev/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/robotics/</loc>
+    <loc>https://campuscareer.vercel.app/roadmaps/blockchain/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/mobile-dev/</loc>
+    <loc>https://campuscareer.vercel.app/preparation/aptitude/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/roadmaps/blockchain/</loc>
+    <loc>https://campuscareer.vercel.app/preparation/coding/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/preparation/aptitude/</loc>
+    <loc>https://campuscareer.vercel.app/preparation/hr-interview/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://campuscareer.oneserve.in/preparation/coding/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://campuscareer.oneserve.in/preparation/hr-interview/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://campuscareer.oneserve.in/preparation/group-discussion/</loc>
+    <loc>https://campuscareer.vercel.app/preparation/group-discussion/</loc>
     <priority>0.6</priority>
   </url>
 
