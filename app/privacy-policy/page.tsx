@@ -1,3 +1,10 @@
+export const metadata = {
+  title: "Placement Preparation - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
+  description: "privacy policy",
+}
 export default function PrivacyPolicy() {
   return (
     <main className="max-w-4xl mx-auto px-4 py-10 text-sm leading-7">

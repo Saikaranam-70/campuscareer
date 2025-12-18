@@ -5,6 +5,9 @@ import { Clock, CheckCircle, Cloud } from "lucide-react"
 
 export const metadata = {
   title: "Cloud Computing Roadmap - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description:
     "Complete Cloud Computing roadmap covering AWS, Azure, GCP, DevOps basics, and cloud security",
 }

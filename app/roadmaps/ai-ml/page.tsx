@@ -5,6 +5,9 @@ import { Clock, BookOpen, Code, CheckCircle, Brain } from "lucide-react"
 
 export const metadata = {
   title: "AI/ML Engineer Roadmap - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description: "Complete AI and Machine Learning path from fundamentals to advanced deep learning",
 }
 

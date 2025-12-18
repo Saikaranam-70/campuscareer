@@ -5,6 +5,9 @@ import { Brain, Code, MessageSquare, Users, ArrowRight } from "lucide-react"
 
 export const metadata = {
   title: "Placement Preparation - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description: "Daily aptitude questions, coding problems, HR interview prep, and group discussion topics",
 }
 

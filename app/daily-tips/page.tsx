@@ -5,6 +5,9 @@ import { Lightbulb, AlertCircle } from "lucide-react"
 
 export const metadata = {
   title: "Daily Career Tips - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description: "Get daily career tips and learn about common mistakes freshers make",
 }
 

@@ -5,6 +5,9 @@ import { Clock, CheckCircle, DraftingCompass } from "lucide-react"
 
 export const metadata = {
   title: "CAD / CAM Engineer Roadmap - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description:
     "Complete CAD and CAM Engineer roadmap covering design fundamentals, modeling tools, manufacturing processes, and industry projects",
 }

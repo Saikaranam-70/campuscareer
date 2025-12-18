@@ -6,6 +6,9 @@ import { Clock, BookOpen, Code, CheckCircle, BarChart } from "lucide-react"
 export const metadata = {
   title: "Data Analyst Roadmap - CareerCompanion",
   description: "Complete Data Analyst roadmap from basics to advanced analytics and dashboards",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function DataAnalystPage() {

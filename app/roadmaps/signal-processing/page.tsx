@@ -8,6 +8,9 @@ export const metadata = {
   title: "Signal Processing Engineer Roadmap - CareerCompanion",
   description:
     "Complete Signal Processing Engineer roadmap covering signals, systems, DSP, MATLAB, and real-world applications",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function SignalProcessingEngineerPage() {

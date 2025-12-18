@@ -7,6 +7,9 @@ export const metadata = {
   title: "Cybersecurity Roadmap - CareerCompanion",
   description:
     "Complete Cybersecurity roadmap covering security fundamentals, networking, ethical hacking, SOC, and cloud security",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function CybersecurityPage() {

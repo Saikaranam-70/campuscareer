@@ -3,6 +3,9 @@ import { Mail, Phone, MapPin, MessageSquare } from "lucide-react"
 
 export const metadata = {
   title: "Contact Us | CampusCareer",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description:
     "Get in touch with CampusCareer for support, feedback, or collaboration. We're here to help students succeed.",
 }

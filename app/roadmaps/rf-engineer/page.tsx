@@ -7,6 +7,9 @@ export const metadata = {
   title: "RF Engineer Roadmap - CareerCompanion",
   description:
     "Complete RF Engineer roadmap covering RF fundamentals, antennas, microwave engineering, tools, and wireless systems",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function RFEngineerPage() {

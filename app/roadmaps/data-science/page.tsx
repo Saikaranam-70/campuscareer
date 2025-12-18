@@ -7,6 +7,9 @@ export const metadata = {
   title: "Data Scientist Roadmap - CareerCompanion",
   description:
     "Complete Data Scientist roadmap from statistics and Python to machine learning and deployment",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function DataScientistPage() {

@@ -6,6 +6,9 @@ import { Clock, BookOpen, Code, CheckCircle, Cpu } from "lucide-react"
 export const metadata = {
   title: "VLSI Design Engineer Roadmap - CareerCompanion",
   description: "Complete VLSI design path for integrated circuits and chip design",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function VLSIRoadmapPage() {

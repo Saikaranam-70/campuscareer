@@ -7,6 +7,9 @@ export const metadata = {
   title: "IoT Developer Roadmap - CareerCompanion",
   description:
     "Complete IoT Developer roadmap covering electronics, embedded systems, IoT protocols, cloud, and real-world projects",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function IoTDeveloperPage() {

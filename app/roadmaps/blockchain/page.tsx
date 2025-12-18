@@ -5,6 +5,9 @@ import { Clock, CheckCircle, Blocks } from "lucide-react"
 
 export const metadata = {
   title: "Blockchain Developer Roadmap - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description:
     "Complete Blockchain Developer roadmap covering blockchain fundamentals, smart contracts, Web3, and real-world projects",
 }

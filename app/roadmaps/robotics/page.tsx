@@ -7,6 +7,9 @@ export const metadata = {
   title: "Robotics Engineer Roadmap - CareerCompanion",
   description:
     "Complete Robotics Engineer roadmap covering mechanics, electronics, control systems, ROS, and real-world robotics projects",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function RoboticsEngineerPage() {

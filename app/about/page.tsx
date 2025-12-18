@@ -3,6 +3,9 @@ import { GraduationCap, Target, Users, Lightbulb } from "lucide-react"
 
 export const metadata = {
   title: "About Us | CampusCareer",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description: "Learn more about CampusCareer and our mission to help college students succeed in their careers.",
 }
 

@@ -7,6 +7,9 @@ export const metadata = {
   title: "Mobile App Developer Roadmap - CareerCompanion",
   description:
     "Complete Mobile App Developer roadmap covering Android, iOS, cross-platform frameworks, backend integration, and app publishing",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function MobileAppDeveloperPage() {

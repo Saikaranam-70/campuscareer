@@ -6,6 +6,9 @@ import { Clock, BookOpen, Code, CheckCircle } from "lucide-react"
 export const metadata = {
   title: "Web Developer Roadmap - CareerCompanion",
   description: "Complete web development learning path with AI-curated resources",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function WebDeveloperRoadmapPage() {

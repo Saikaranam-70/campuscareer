@@ -5,6 +5,9 @@ import { Briefcase, Building2, Calendar, CheckCircle, ExternalLink } from "lucid
 
 export const metadata = {
   title: "Placements & Internships - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description: "Find latest internship and placement opportunities with eligibility checker",
 }
 

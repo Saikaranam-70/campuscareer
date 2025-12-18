@@ -6,6 +6,9 @@ import { Clock, BookOpen, Code, CheckCircle, Microscope as Microchip } from "luc
 export const metadata = {
   title: "Embedded Systems Engineer Roadmap - CareerCompanion",
   description: "Complete embedded systems development path for firmware and hardware programming",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function EmbeddedRoadmapPage() {

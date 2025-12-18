@@ -7,6 +7,9 @@ export const metadata = {
   title: "DevOps Roadmap - CareerCompanion",
   description:
     "Complete DevOps roadmap covering Linux, CI/CD, Docker, Kubernetes, cloud, and monitoring",
+    other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function DevOpsPage() {

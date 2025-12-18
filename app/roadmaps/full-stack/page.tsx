@@ -6,6 +6,9 @@ import { Clock, BookOpen, Code, CheckCircle } from "lucide-react"
 export const metadata = {
   title: "Full Stack Developer Roadmap - CareerCompanion",
   description: "Complete full-stack development path covering frontend, backend, and DevOps",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
 }
 
 export default function FullStackRoadmapPage() {

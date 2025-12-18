@@ -5,6 +5,9 @@ import { FileText, CheckCircle, AlertTriangle, Download, ArrowRight } from "luci
 
 export const metadata = {
   title: "Resume Builder - CareerCompanion",
+  other: {
+    "google-adsense-account": "ca-pub-6563298862178501",
+  },
   description: "Build professional resumes, check your resume score, and access sample resumes",
 }
 
