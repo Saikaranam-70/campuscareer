@@ -12,6 +12,8 @@ export const metadata: Metadata = {
     "CampusCareer helps college students with daily career tips, skill roadmaps, placement preparation, resume building, and internship & placement updates.",
     other: {
     "google-adsense-account": "ca-pub-6563298862178501",
+    "google-site-verification":
+      "iZ-G9mOmrIjWG0qFs89h9Fv-5ZjzxlEL4hO2lZ0DI0U",
   },
 }
 
